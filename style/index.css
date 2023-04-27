@@ -21,7 +21,6 @@ text-align: center;
   align-items: flex-start;
   margin: auto;
   text-align: center;
-  font-size: 1.5em;
 }
 
 .accueil-introduction img {
@@ -32,7 +31,7 @@ text-align: center;
 }
 
 .accueil-introduction h1 {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .accueil-introduction p {
